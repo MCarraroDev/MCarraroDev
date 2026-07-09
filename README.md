@@ -1,15 +1,129 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate student and developer (in my free time)</h3>
+<div align="center">
 
-- 📫 How to reach me **github@ocrammail.anonaddy.me**
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Marco%20Carraro&fontSize=70&fontAlignY=35&desc=Digital%20Forensics%20%7C%20Data%20Recovery%20%7C%20Web%20Development&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header Banner" width="100%" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcocarraro09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcocarraro09" height="30" width="40" /></a>
-<a href="https://instagram.com/marcocarraroo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcocarraroo_" height="30" width="40" /></a>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=IT+%26+Telecommunications+Student;Digital+Forensics+Enthusiast;Data+Recovery+Specialist;Freelance+Web+Developer" alt="Typing Animation" />
+</a>
+
+<br/>
+
+<!-- Location & Academic Badges -->
+<img src="https://img.shields.io/badge/Location-Milano%2C%20Italy-10002b?style=for-the-badge&logo=google-maps&logoColor=9D4EDD" alt="Location" />
+<img src="https://img.shields.io/badge/Education-IT%20%26%20Telecom%20High%20School-10002b?style=for-the-badge&logo=academia&logoColor=9D4EDD" alt="Academic" />
+
+<br/>
+<br/>
+
+<!-- Social & Contact Badges -->
+<a href="https://www.linkedin.com/in/marcocarraro09/">
+  <img src="https://img.shields.io/badge/LinkedIn-10002b?style=for-the-badge&logo=linkedin&logoColor=9D4EDD" alt="LinkedIn" />
+</a>
+<a href="mailto:info@marcocarraro.it">
+  <img src="https://img.shields.io/badge/Email-10002b?style=for-the-badge&logo=gmail&logoColor=9D4EDD" alt="Email" />
+</a>
+<a href="https://github.com/MCarraroDev">
+  <img src="https://img.shields.io/badge/GitHub-10002b?style=for-the-badge&logo=github&logoColor=9D4EDD" alt="GitHub" />
+</a>
+<a href="https://www.instagram.com/marcocarraroo_/">
+  <img src="https://img.shields.io/badge/Instagram-10002b?style=for-the-badge&logo=instagram&logoColor=9D4EDD" alt="Instagram" />
+</a>
+
+<br/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<p align="justify">
+I am an IT & Telecommunications student based in Milan with a strong focus on <b>Digital Forensics</b> and applied programming. 
+Diving into specialized <b>Data Recovery</b> techniques (specifically tailored for media formats like GoPro and Blackmagic) and freelance web development for private clients. I approach engineering with an analytical mindset, constantly expanding my toolkit to tackle complex challenges and build resilient solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🔍 **Focus Area:** Digital Forensics, Data Recovery
+- 💻 **Development:** Freelance Web Development (React, Vue) & Python Scripting
+- 🚀 **Open To:** Mentorships and Internships in Cybersecurity, Forensics, or Software Engineering
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcarrarodev&show_icons=true&locale=en&layout=compact" alt="mcarrarodev" /></p>
+---
+
+## 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ts,js,html,css" alt="Languages" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap" alt="Frontend" />
+
+### Data Science & AI Tools
+<img src="https://skillicons.dev/icons?i=opencv,matlab" alt="Data" /> *(NumPy, Pandas, OpenCV, Matplotlib, Seaborn)*
+
+### Digital Forensics & Hardware
+<img src="https://img.shields.io/badge/Autopsy-10002b?style=for-the-badge&logo=thesleuthkit&logoColor=9D4EDD" alt="Autopsy" />
+<img src="https://img.shields.io/badge/The_Sleuth_Kit-10002b?style=for-the-badge&logo=linux&logoColor=9D4EDD" alt="TSK" />
+<img src="https://img.shields.io/badge/FTK_Imager-10002b?style=for-the-badge&logo=databricks&logoColor=9D4EDD" alt="FTK Imager" />
+<img src="https://img.shields.io/badge/Arduino-10002b?style=for-the-badge&logo=arduino&logoColor=9D4EDD" alt="Arduino" />
+
+</div>
+
+---
+
+## 🧠 AI/ML Learning & Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Computer Vision** | Foundational | Image processing and object detection workflows utilizing **OpenCV**. |
+| **AI Foundations** | Active Learning | Pursuing the **Anthropic AI Proficiency** track to integrate LLMs effectively. |
+
+---
+
+## 📜 Certifications & Education
+
+### AI
+- ![Badge](https://img.shields.io/badge/AI_Fluency_Framework_%26_Foundations-3c096c?style=flat-square&logo=anthropic&logoColor=white)
+- ![Badge](https://img.shields.io/badge/Claude_101-3c096c?style=flat-square&logo=anthropic&logoColor=white)
+
+### Cybersecurity
+- ![Badge](https://img.shields.io/badge/Cybersecurity_and_Hacking_@TECHCAMP_POLIMI-3c096c?style=flat-square&logo=linux&logoColor=white)
+
+### Programming Languages
+- ![Badge](https://img.shields.io/badge/Foundational_C%23-3c096c?style=flat-square&logo=microsoft&logoColor=white)
+
+### Languages
+- ![Badge](https://img.shields.io/badge/B2_First-3c096c?style=flat-square&logo=cambridge&logoColor=white)
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+<a href="https://leetcode.com/u/mcarrarodev/">
+  <img src="https://img.shields.io/badge/LeetCode-MCarraroDev-10002b?style=for-the-badge&logo=leetcode&logoColor=9D4EDD" alt="LeetCode" />
+</a>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCarraroDev&theme=tokyonight&bg_color=10002b&color=9D4EDD&line=7b2cbf&point=ffffff&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <!-- Ensure the GitHub Actions snake generator is set up in your repo to output this file -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MCarraroDev/MCarraroDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MCarraroDev/MCarraroDev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MCarraroDev/MCarraroDev/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
