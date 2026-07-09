@@ -85,14 +85,14 @@ Diving into specialized <b>Data Recovery</b> techniques (specifically tailored f
 ## 📜 Certifications & Education
 
 ### AI
-- ![Badge](https://img.shields.io/badge/AI_Fluency_Framework_%26_Foundations-3c096c?style=flat-square&logo=anthropic&logoColor=white)
-- ![Badge](https://img.shields.io/badge/Claude_101-3c096c?style=flat-square&logo=anthropic&logoColor=white)
+- ![Badge](https://img.shields.io/badge/Anthropic_AI_Fluency_Framework_%26_Foundations-3c096c?style=flat-square&logo=anthropic&logoColor=white)
+- ![Badge](https://img.shields.io/badge/Anthropic_Claude_101-3c096c?style=flat-square&logo=anthropic&logoColor=white)
 
 ### Cybersecurity
 - ![Badge](https://img.shields.io/badge/Cybersecurity_and_Hacking_@TECHCAMP_POLIMI-3c096c?style=flat-square&logo=linux&logoColor=white)
 
 ### Programming Languages
-- ![Badge](https://img.shields.io/badge/Foundational_C%23-3c096c?style=flat-square&logo=microsoft&logoColor=white)
+- ![Badge](https://img.shields.io/badge/Foundational_C%23_with_Microsoft-3c096c?style=flat-square&logo=microsoft&logoColor=white)
 
 ### Languages
 - ![Badge](https://img.shields.io/badge/B2_First-3c096c?style=flat-square&logo=cambridge&logoColor=white)
