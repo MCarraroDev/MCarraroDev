@@ -82,23 +82,6 @@ Diving into specialized <b>Data Recovery</b> techniques (specifically tailored f
 
 ---
 
-## 📜 Certifications & Education
-
-### AI
-- ![Badge](https://img.shields.io/badge/Anthropic_AI_Fluency_Framework_%26_Foundations-3c096c?style=flat-square&logo=anthropic&logoColor=white)
-- ![Badge](https://img.shields.io/badge/Anthropic_Claude_101-3c096c?style=flat-square&logo=anthropic&logoColor=white)
-
-### Cybersecurity
-- ![Badge](https://img.shields.io/badge/Cybersecurity_and_Hacking_@TECHCAMP_POLIMI-3c096c?style=flat-square&logo=linux&logoColor=white)
-
-### Programming Languages
-- ![Badge](https://img.shields.io/badge/Foundational_C%23_with_Microsoft-3c096c?style=flat-square&logo=microsoft&logoColor=white)
-
-### Languages
-- ![Badge](https://img.shields.io/badge/B2_First-3c096c?style=flat-square&logo=cambridge&logoColor=white)
-
----
-
 ## 🏆 Coding Profiles
 
 <div align="center">
@@ -109,15 +92,11 @@ Diving into specialized <b>Data Recovery</b> techniques (specifically tailored f
 
 ---
 
-## 📈 Contribution Activity
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCarraroDev&theme=tokyonight&bg_color=10002b&color=9D4EDD&line=7b2cbf&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
-
-## 🐍 Contribution Snake
 
 <div align="center">
   <!-- Ensure the GitHub Actions snake generator is set up in your repo to output this file -->
